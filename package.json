@@ -1,0 +1,14 @@
+{
+  "name": "chat-with-ai",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Full-stack web application for realistic Korean messaging conversations with AI personas",
+  "scripts": {
+    "generate-screenshots": "node scripts/screenshot-automation.js"
+  },
+  "devDependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "dotenv": "^16.0.0",
+    "playwright": "^1.40.0"
+  }
+}

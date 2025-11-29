@@ -1,0 +1,28 @@
+{
+  "name": "○○와 채팅하기",
+  "short_name": "○○와 채팅하기",
+  "description": "자연스러운 대화를 나눠보세요",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#FF6B81",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["social", "entertainment"],
+  "screenshots": [],
+  "related_applications": [],
+  "prefer_related_applications": false
+}
